@@ -59,7 +59,7 @@ Navigate through each notebook and execute cells to explore the regression workf
 ## Contributing
 Contributions are welcome! Suggestions include:
 
--Adding new regression techniques (e.g., Elastic Net, Decision Tree Regression)
--Enhancing datasets or adding novel examples
--Improving documentation, visuals, or explanations
--Simply fork the repo, make your changes, and submit a pull request.
+- Adding new regression techniques (e.g., Elastic Net, Decision Tree Regression)
+- Enhancing datasets or adding novel examples
+- Improving documentation, visuals, or explanations
+- Simply fork the repo, make your changes, and submit a pull request.
