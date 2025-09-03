@@ -37,37 +37,29 @@ This repository presents educational implementations of regression algorithms. E
    ```bash
    git clone https://github.com/ShivamMitra/Regression-Models.git
    cd Regression-Models
-Install dependencies (assuming usage of a virtual environment):
-
-bash
-Copy code
-pip install -r requirements.txt
+2. Install dependencies (assuming usage of a virtual environment):
+   ```bash
+   pip install -r requirements.txt
 (If no requirements.txt exists yet, consider adding one with key packages such as numpy, pandas, scikit-learn, matplotlib, etc.)
 
-Launch Jupyter Notebook:
-
-bash
-Copy code
-jupyter notebook
+3. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
 Navigate through each notebook and execute cells to explore the regression workflows.
 
-Requirements
-Python 3.x
+## Requirements
 
-Libraries: numpy, pandas, scikit-learn, matplotlib (add others as needed)
+-Python 3.x
+-Libraries: numpy, pandas, scikit-learn, matplotlib (add others as needed)
 
-You can install them via:
-
-bash
-Copy code
-pip install numpy pandas scikit-learn matplotlib
-Contributing
+ You can install them via:
+ ```bash
+ pip install numpy pandas scikit-learn matplotlib
+```
+## Contributing
 Contributions are welcome! Suggestions include:
 
-Adding new regression techniques (e.g., Elastic Net, Decision Tree Regression)
-
-Enhancing datasets or adding novel examples
-
-Improving documentation, visuals, or explanations
-
-Simply fork the repo, make your changes, and submit a pull request.
+-Adding new regression techniques (e.g., Elastic Net, Decision Tree Regression)
+-Enhancing datasets or adding novel examples
+-Improving documentation, visuals, or explanations
+-Simply fork the repo, make your changes, and submit a pull request.
