@@ -49,8 +49,8 @@ Navigate through each notebook and execute cells to explore the regression workf
 
 ## Requirements
 
--Python 3.x
--Libraries: numpy, pandas, scikit-learn, matplotlib (add others as needed)
+- Python 3.x
+- Libraries: numpy, pandas, scikit-learn, matplotlib (add others as needed)
 
  You can install them via:
  ```bash
